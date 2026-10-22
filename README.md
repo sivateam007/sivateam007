@@ -28,8 +28,8 @@
 
 ## 🎯 About Me
 
-- 🔭 **Freelance Full Stack & Android Developer** — building for clients since **2021** (JT Group LMS, OCR & AI tools)
-- 🤖 **AI Full Stack Developer Intern @ NSDC** (2023–2024)
+- 🔭 **Freelance Full Stack & Android Developer** — building for clients (JT Group LMS, OCR & AI tools)
+- 🤖 **AI Full Stack Developer Intern @ NSDC**
 - ⚡ I ship web apps and Android APKs **end to end with AI vibe coding** — prompt coding gives faster results than manual processing
 - 🗃️ **SQL is my manually-learned backbone** — schema design, joins, aggregates and query tuning written by hand
 - 🎓 Tamil Nadu State Board + Vocational Higher Secondary (Computer Specialization)
@@ -71,17 +71,6 @@
 | **V-Play** | AI video player built with Google AI Studio & Gemini API | [v-play](https://github.com/sivateam007/v-play) |
 
 > ⚙️ **How these get built:** designed, coded and deployed end to end with **AI vibe coding** — describe the feature, review the diff, test on device. SQL schemas and tricky queries are still written by hand.
-
-## 📈 GitHub Stats
-
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivateam007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivateam007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-## 📫 Contact
-
-- 📧 **sivacareer@hotmail.com**
-- 💼 Freelance & full-time opportunities welcome
 
 <details>
 <summary>🔭 Previously built & shipped</summary>
