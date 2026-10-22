@@ -3,14 +3,6 @@
 <h3 align="center">Full Stack Developer · Android Developer · AI Vibe Coding & Prompt Coding</h3>
 
 <p align="center">
-  <a href="mailto:sivacareer@hotmail.com">📧 Email</a> ·
-  <a href="https://meowocr.onrender.com">Meow OCR</a> ·
-  <a href="https://meow-carrom.onrender.com">Meow Carrom</a> ·
-  <a href="https://jtgroup.onrender.com">JT Group</a> ·
-  <a href="https://meow-ai-jpig.onrender.com">Meow AI</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/HTML-CSS-FF5722?style=flat&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/JavaScript-FFC107?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
