@@ -23,9 +23,8 @@
 - 🔭 **Freelance Full Stack & Android Developer** — building for clients (JT Group LMS, OCR & AI tools)
 - 🤖 **AI Full Stack Developer Intern @ NSDC**
 - ⚡ I ship web apps and Android APKs **end to end with AI vibe coding** — prompt coding gives faster results than manual processing
-- 🗃️ **SQL is my manually-learned backbone** — schema design, joins, aggregates and query tuning written by hand
-- 🎓 Tamil Nadu State Board + Vocational Higher Secondary (Computer Specialization)
-- 📬 Open to freelance and full-time opportunities
+
+
 
 ## 🛠️ Tech Stack
 
